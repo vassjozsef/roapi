@@ -1,0 +1,7 @@
+.vs
+Debug
+Release
+x64
+roapi/Debug
+roapi/Release
+roapi/x64
